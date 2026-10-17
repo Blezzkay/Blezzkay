@@ -1,42 +1,67 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=140&section=header&text=Hi%2C%20I'm%20Blezzkay&fontSize=38&fontAlignY=38&animation=fadeIn&desc=Senior%20Flutter%20Engineer%20%7C%20AI%20Automation%20Specialist&descAlignY=60&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
-<p align="center">
-  <a href="https://blezzkay.com/"><img src="https://img.shields.io/badge/Website-blezzkay.com-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/blezzkay/"><img src="https://img.shields.io/badge/LinkedIn-blezzkay-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/blezzkay"><img src="https://img.shields.io/badge/X-@blezzkay-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-</p>
+<h1 align="center">
+  Let's Connect and have a Chat! 💬
+</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/a7YkCPDPy5mE1e2NUR/giphy.gif" width="320" alt="aura" />
 </p>
 
-## 👨‍💻 About Me
+<p align="center">
+<a href="https://blezzkay.com/">
+  <img height="50" src="https://cdn.simpleicons.org/googlechrome/4285F4"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/blezzkay/">
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://x.com/blezzkay">
+  <img height="50" src="https://cdn.simpleicons.org/x/808080"/>
+</a>
+</p>
+
+---
+
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
 name: Blezzkay
-role: Senior Flutter Engineer & AI Automation Specialist
-currently_building: A simulation game 🎮
-currently_learning: Cyber security 🔐
-plays: [Blood Strike, Call of Duty Mobile]
+current_job: Senior Flutter Engineer & AI Automation Specialist
+company: UENOLABS
+website: blezzkay.com
+
+fields_of_interests:
+  [
+    "Natural Language Processing",
+    "Artificial Intelligence",
+    "Cyber Security",
+  ]
+
+currently_building: ["A simulation game"]
+currently_learning: ["Cyber Security"]
+games_i_play: ["Blood Strike", "Call of Duty Mobile"]
+hobbies: ["Gaming", "Football"]
 ```
 
-## 🚀 Tools & Tech
+---
 
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="dart" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="android studio" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" alt="cloudflare" width="45" height="45"/>
 </p>
 
-**🤖 AI & Automation**
-
+<h3> 🤖 &nbsp;AI & Automation</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Make.com-6d00cc?style=flat-square&logo=make&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-d97757?style=flat-square&logo=claude&logoColor=white" />
@@ -47,23 +72,6 @@ plays: [Blood Strike, Call of Duty Mobile]
   <img src="https://img.shields.io/badge/CapCut-000000?style=flat-square&logo=capcut&logoColor=white" />
 </p>
 
-## 📈 GitHub Stats
-
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=blezzkay&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blezzkay&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/blezzkay/blezzkay/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/blezzkay/blezzkay/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/blezzkay/blezzkay/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
